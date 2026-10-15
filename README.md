@@ -66,8 +66,8 @@ Ensure you have **Node.js (v18+)** installed on your machine.
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/Nitin45-verma/nitin-portfolio-henna.git
-cd nitin-portfolio-henna
+git clone https://github.com/Nitin45-verma/developer-portfolio.git
+cd developer-portfolio
 npm install
 ```
 
@@ -77,7 +77,7 @@ npm install
 npm run dev
 ```
 
-The app will start at `http://localhost:5173`.
+The app will start at `https://nitin-portfolio-henna.vercel.app`.
 
 ### 4. Build for Production
 
@@ -106,7 +106,7 @@ npm run preview
 
 ## 🌐 Live Demo
 
-🔗 [nitinverma.dev](https://nitinverma.dev/)
+🔗 [nitin-portfolio-henna.vercel.app](https://nitin-portfolio-henna.vercel.app)
 
 ---
 
