@@ -1,16 +1,123 @@
-# React + Vite
+# 🚀 Nitin Verma — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and performance-optimized personal portfolio website showcasing skills, projects, experience, and education. Built using React + Vite with Tailwind CSS and smooth Framer Motion animations.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Interactive Hero Section:** Eye-catching landing with animated glow cursor and specular button effects.
+- **Lazy-Loaded Sections:** Below-the-fold components (About, Skills, Experience, Projects, Education, Contact) are code-split for blazing-fast initial load.
+- **Smooth Animations:** Framer Motion–powered scroll transitions and micro-interactions throughout.
+- **Full SEO Implementation:** JSON-LD structured data, Open Graph/Twitter meta tags, sitemap, robots.txt, and noscript fallback for all crawlers.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewports.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Framework:** React 19 + Vite 8
+- **UI & Styling:** Tailwind CSS v4 / Custom CSS
+- **Animations:** Framer Motion / OGL (WebGL)
+- **Icons:** Lucide React / React Icons
+- **Fonts:** Google Fonts (Inter)
+- **Deployment:** Vercel
+
+---
+
+## 📁 Project Structure
+
+```
+portfolio/
+├── public/               # Static assets (favicons, OG images, manifest, sitemap)
+├── src/
+│   ├── assets/           # Project images and media
+│   ├── components/       # React components
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Experience.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Education.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Footer.jsx
+│   │   ├── GlowCursor.jsx
+│   │   ├── SpecularButton.jsx
+│   │   └── SectionHeading.jsx
+│   ├── App.jsx           # Root component with lazy loading
+│   ├── main.jsx          # Entry point
+│   └── index.css         # Global styles & design tokens
+├── index.html            # HTML entry with SEO meta & structured data
+├── vite.config.js        # Vite configuration
+└── package.json
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Prerequisites
+
+Ensure you have **Node.js (v18+)** installed on your machine.
+
+### 2. Installation
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Nitin45-verma/nitin-portfolio-henna.git
+cd nitin-portfolio-henna
+npm install
+```
+
+### 3. Run Development Server
+
+```bash
+npm run dev
+```
+
+The app will start at `http://localhost:5173`.
+
+### 4. Build for Production
+
+```bash
+npm run build
+```
+
+### 5. Preview Production Build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📜 Available Scripts
+
+| Script            | Description                        |
+| ----------------- | ---------------------------------- |
+| `npm run dev`     | Start Vite dev server with HMR     |
+| `npm run build`   | Create optimized production build  |
+| `npm run preview` | Locally preview the production build |
+| `npm run lint`    | Run Oxlint for code quality checks |
+
+---
+
+## 🌐 Live Demo
+
+🔗 [nitinverma.dev](https://nitinverma.dev/)
+
+---
+
+## 📬 Contact
+
+- **Email:** [nikn63641@gmail.com](mailto:nikn63641@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nitin-verma-30104731a](https://linkedin.com/in/nitin-verma-30104731a)
+- **GitHub:** [github.com/Nitin45-verma](https://github.com/Nitin45-verma)
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
