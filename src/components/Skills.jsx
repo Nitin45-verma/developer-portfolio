@@ -5,8 +5,7 @@ const skillCategories = [
   {
     title: 'Frontend',
     skills: [
-      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript(Basic)', 'React.js',
-      'React Native / Expo', 'Redux Toolkit', 'Tailwind CSS',
+      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript(Basic)', 'React.js', 'Redux Toolkit', 'Tailwind CSS',
       'Bootstrap', 'Framer Motion',
     ],
   },
