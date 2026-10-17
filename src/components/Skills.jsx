@@ -5,22 +5,22 @@ const skillCategories = [
   {
     title: 'Frontend',
     skills: [
-      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'React.js', 
-      'React Native / Expo', 'Redux Toolkit', 'Tailwind CSS', 
+      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript(Basic)', 'React.js',
+      'React Native / Expo', 'Redux Toolkit', 'Tailwind CSS',
       'Bootstrap', 'Framer Motion',
     ],
   },
   {
     title: 'Backend & Database',
     skills: [
-      'Node.js', 'Express.js', 'MongoDB', 'REST APIs', 
+      'Node.js', 'Express.js', 'MongoDB', 'REST APIs',
       'JWT Authentication', 'Google OAuth 2.0', 'Nodemailer',
     ],
   },
   {
     title: 'Tools & Platforms',
     skills: [
-      'Git / GitHub', 'Vercel', 'Render', 
+      'Git / GitHub', 'Vercel', 'Render',
       'AWS (EC2, PM2)', 'Prompt Engineering',
     ],
   },
