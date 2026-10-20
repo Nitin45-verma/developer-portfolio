@@ -24,8 +24,8 @@ const contactInfo = [
   {
     icon: wrapIcon(FaLinkedinIn),
     label: 'LinkedIn',
-    value: 'linkedin.com/in/nitin-verma-30104731a',
-    href: 'https://linkedin.com/in/nitin-verma-30104731a',
+    value: 'linkedin.com/in/nitin45verma',
+    href: 'https://www.linkedin.com/in/nitin45verma',
   },
   {
     icon: wrapIcon(FaGithub),

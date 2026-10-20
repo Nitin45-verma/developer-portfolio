@@ -59,7 +59,7 @@ export default function About() {
             <p className="text-text-secondary leading-relaxed">
               Over the past year, I've sharpened my skills through a comprehensive software 
               development program and a <span className="text-text-primary font-medium">6-month 
-              internship at RNS IT Solutions</span>, where I contributed to production codebases, 
+              internship at WE RNS IT Solutions</span>, where I contributed to production codebases, 
               built modular full-stack features, and collaborated through proper Git workflows and 
               code reviews.
             </p>

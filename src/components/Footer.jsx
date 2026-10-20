@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 
 const socialLinks = [
   { icon: FaGithub, href: 'https://github.com/Nitin45-verma', label: 'GitHub' },
-  { icon: FaLinkedinIn, href: 'https://linkedin.com/in/nitin-verma-30104731a', label: 'LinkedIn' },
+  { icon: FaLinkedinIn, href: 'https://www.linkedin.com/in/nitin45verma', label: 'LinkedIn' },
   { icon: Mail, href: 'mailto:nikn63641@gmail.com', label: 'Email', isLucide: true },
 ]
 

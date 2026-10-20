@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nitinverma.dev/sitemap.xml
+Sitemap: https://nitin-portfolio-henna.vercel.app/sitemap.xml

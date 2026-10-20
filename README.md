@@ -113,7 +113,7 @@ npm run preview
 ## 📬 Contact
 
 - **Email:** [nikn63641@gmail.com](mailto:nikn63641@gmail.com)
-- **LinkedIn:** [linkedin.com/in/nitin-verma-30104731a](https://www.linkedin.com/in/nitin45verma/)
+- **LinkedIn:** [linkedin.com/in/nitin45verma](https://www.linkedin.com/in/nitin45verma)
 - **GitHub:** [github.com/Nitin45-verma](https://github.com/Nitin45-verma)
 
 ---
