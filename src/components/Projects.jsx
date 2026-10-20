@@ -6,29 +6,29 @@ import SpecularButton from './SpecularButton'
 const projects = [
   {
     title: 'S Kumar Decor',
-    tagline: 'Business website for a real paying client',
+    tagline: 'Business Web Platform',
     description:
-      'A professional business website built for a real client in the home decor industry. Features custom scroll animations, optimized performance, and full technical SEO implementation including JSON-LD structured data, XML sitemap, and Google Search Console integration.',
+      'Production website for a real wedding and decoration client, with responsive layouts, animations and complete technical SEO (JSON-LD, sitemap, Google Search Console).',
     differentiator: 'Real client project with production SEO — not a tutorial clone.',
-    tech: ['React', 'Vite', 'Tailwind CSS', 'Framer Motion', 'JSON-LD', 'SEO'],
+    tech: ['React.js', 'Vite', 'Tailwind CSS', 'Framer Motion', 'JSON-LD', 'SEO'],
     liveUrl: 'https://skumar-decor.vercel.app',
   },
   {
     title: 'HomeBudget',
-    tagline: 'Mobile-first household expense tracker',
+    tagline: 'Housewives Expense Tracker',
     description:
-      'A cross-platform expense tracking app designed for households, built with React Native and Expo for the frontend and a Node/Express/MongoDB backend. Self-deployed on AWS EC2 with PM2 process management. Features Google OAuth and email OTP authentication for secure access.',
+      'Household expense tracker with budgets and analytics, Google OAuth 2.0 sign-in, email OTP (Nodemailer), JWT-protected APIs, backend deployed on a self-configured AWS EC2 Ubuntu server.',
     differentiator: 'Self-deployed on AWS EC2 with real auth — not a Firebase shortcut.',
-    tech: ['React Native', 'Expo', 'Node.js', 'Express', 'MongoDB', 'AWS EC2', 'Google OAuth'],
+    tech: ['React.js', 'Node.js', 'Express', 'MongoDB', 'AWS EC2', 'Google OAuth', 'JWT', 'Nodemailer'],
     liveUrl: 'https://home-exp.vercel.app',
   },
   {
     title: 'Real Estate Platform',
-    tagline: 'Full-stack property marketplace',
+    tagline: 'Full Stack Property Marketplace',
     description:
-      'A comprehensive property marketplace with property listings, advanced search and filter functionality, buy/sell workflows, and a role-gated admin panel. Built with the full MERN stack to handle real-world complexity of multi-user property management.',
+      'List, browse, search and filter properties, image uploads, role-gated admin panel, buy and sell workflows. Built with the full MERN stack.',
     differentiator: 'Complete buy/sell workflow with role-based admin — not just a listing page.',
-    tech: ['React.js', 'Node.js', 'Express', 'MongoDB', 'REST APIs', 'JWT'],
+    tech: ['MongoDB', 'Express.js', 'React.js', 'Node.js', 'REST APIs', 'JWT'],
     liveUrl: 'https://nitin-real-state.vercel.app',
   },
 ]

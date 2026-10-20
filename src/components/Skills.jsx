@@ -5,22 +5,23 @@ const skillCategories = [
   {
     title: 'Frontend',
     skills: [
-      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript(Basic)', 'React.js', 'Redux Toolkit', 'Tailwind CSS',
-      'Bootstrap', 'Framer Motion',
+      'HTML5', 'CSS3', 'JavaScript (ES6+)', 'TypeScript (Learning)', 'React.js', 'Redux Toolkit', 'Context API',
+      'Bootstrap', 'Tailwind CSS', 'Framer Motion',
     ],
   },
   {
     title: 'Backend & Database',
     skills: [
-      'Node.js', 'Express.js', 'MongoDB', 'REST APIs',
-      'JWT Authentication', 'Google OAuth 2.0', 'Nodemailer',
+      'Node.js', 'Express.js', 'MongoDB', 'NoSQL Databases', 'RESTful API Design',
+      'JWT', 'Google OAuth 2.0', 'Nodemailer (Email OTP)',
     ],
   },
   {
     title: 'Tools & Platforms',
     skills: [
-      'Git / GitHub', 'Vercel', 'Render',
-      'AWS (EC2, PM2)', 'Prompt Engineering',
+      'Git / GitHub', 'AWS (EC2, PM2)', 'Responsive Web Design',
+      'Problem Solving', 'Prompt Engineering', 'AI-Assisted Development',
+      'Vercel & Render',
     ],
   },
 ]

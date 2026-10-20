@@ -4,16 +4,14 @@ import SectionHeading from './SectionHeading'
 
 const experiences = [
   {
-    company: 'RNS IT Solutions Pvt. Ltd.',
+    company: 'WE RNS IT Solutions Pvt. Ltd.',
     role: 'MERN Stack Developer Intern',
     location: 'Jaipur, India',
     period: '6 Months',
     bullets: [
-      'Developed full-stack modules using React.js, Node.js, Express, and MongoDB within production-grade applications.',
-      'Designed and implemented RESTful APIs with proper error handling, validation, and authentication middleware (JWT).',
-      'Participated in code reviews, providing and receiving constructive feedback to maintain code quality.',
-      'Collaborated with the team using Git branching workflows (feature branches, pull requests, merge reviews).',
-      'Contributed to responsive UI implementations using Tailwind CSS, ensuring cross-browser and cross-device compatibility.',
+      'Assisted in design, development and maintenance of full-stack web modules using React.js, Tailwind CSS and Express.js.',
+      'Developed and integrated RESTful APIs in Node.js/Express with MongoDB, data validation and query handling.',
+      'Participated in code reviews, Git branching, component debugging and unit-level testing.',
     ],
   },
 ]
